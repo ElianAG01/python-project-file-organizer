@@ -45,5 +45,16 @@ Click the "Exit" button to close the program when done.
 - Python 3.x
 - Tkinter for the GUI
 
+## Application Screenshots
+
+### File Organizer Interface
+![File Organizer Interface] https://github.com/ElianAG01/python-project-file-organizer/blob/main/Captura%20de%20pantalla%202025-01-08%20010510.png
+### Select folder or repository  to organize
+![Select folder or repository  to organize] https://github.com/ElianAG01/python-project-file-organizer/blob/main/Captura%20de%20pantalla%202025-01-08%20010544.png
+### Selected the folder to organize.
+![Selected folder to organize] https://github.com/ElianAG01/python-project-file-organizer/blob/main/Captura%20de%20pantalla%202025-01-08%20010607.png
+### Organized Folders
+![Organized Folders] https://github.com/ElianAG01/python-project-file-organizer/blob/main/Captura%20de%20pantalla%202025-01-08%20010639.png
+
 ### Additional Requirements
 - Ensure your Python installation includes `tkinter` for the graphical interface. 
