@@ -10,7 +10,7 @@ This Python project provides an intuitive graphical user interface (GUI) to orga
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/tu-usuario/python-project-file-organizer.git
+   git clone https://github.com/ElianAG01/python-project-file-organizer
 Install the required dependencies:
 bash
 pip install -r requirements.txt
