@@ -15,9 +15,29 @@ Install the required dependencies:
 bash
 pip install -r requirements.txt
 Run the script:
-bash
 python organize_files_gui.py
-shell
+
+How to Use
+Open the Application: Launch the application by running the organize_files_gui.py script.
+
+Select a Folder:
+
+Click on the "Browse" button to choose the directory you want to organize.
+Alternatively, you can type the folder path directly into the input box.
+Organize Files:
+
+Once a folder is selected, click on the "Organize" button.
+The application will automatically create subfolders based on file extensions and move the files into their respective folders.
+Check the Results:
+
+After the process completes, you can view the organized files in the selected directory.
+For example:
+.txt files will be moved to a folder named Text Files.
+.jpg and .png files will go to Images.
+Other files will be sorted into similar categories.
+Close the Application:
+
+Click the "Exit" button to close the program when done.
 
 #### Tecnologías utilizadas
 ```markdown
