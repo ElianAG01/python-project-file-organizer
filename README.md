@@ -45,3 +45,5 @@ Click the "Exit" button to close the program when done.
 - Python 3.x
 - Tkinter for the GUI
 
+### Additional Requirements
+- Ensure your Python installation includes `tkinter` for the graphical interface. 
